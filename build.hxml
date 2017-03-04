@@ -1,0 +1,4 @@
+-cp src
+::fully_qualified_name::
+
+-lib napi
